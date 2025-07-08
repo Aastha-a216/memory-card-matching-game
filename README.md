@@ -27,8 +27,8 @@ match.wav	               Sound played when a match is found (generated)
 🟢 How to Run
 1️⃣ Clone this repository:
 
-git clone https://github.com/your-username/memory-card-matching-game.git
-cd memory-card-matching-game
+git clone https://github.com/Aastha-a216/memory-card-matching-game
+
 
 2️⃣ Install dependencies:
 
